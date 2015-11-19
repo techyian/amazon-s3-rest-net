@@ -1,0 +1,6 @@
+{
+  "Amazon": {
+    "AWSKey": "YOUR AWS KEY",
+    "AWSSecret":  "YOUR AWS SECRET"
+  }
+}

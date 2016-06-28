@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using Microsoft.AspNet.Mvc;
+using Microsoft.AspNetCore.Mvc;
 using AmazonS3RESTNet5.Interfaces;
 using AmazonS3RESTNet5.ViewModels.Home;
 

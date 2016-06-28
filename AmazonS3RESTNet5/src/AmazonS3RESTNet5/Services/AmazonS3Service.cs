@@ -1,6 +1,6 @@
 ﻿using AmazonS3RESTNet5.Classes;
 using AmazonS3RESTNet5.Interfaces;
-using Microsoft.Framework.OptionsModel;
+using Microsoft.Extensions.Options;
 using Newtonsoft.Json;
 using System;
 using System.Collections.Generic;
